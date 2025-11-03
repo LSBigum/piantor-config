@@ -79,7 +79,7 @@
         extra_layer_2 {
             display-name = "EXTRA 2";
             bindings = <
-&trans  &bt BT_CLR  &to 0  &sys_reset  &bootloader  &studio_unlock  &studio_unlock  &bootloader  &sys_reset  &to 0  &bt BT_CLR  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&to 0  &bt BT_CLR  &to 0  &sys_reset  &bootloader  &studio_unlock  &studio_unlock  &bootloader  &sys_reset  &to 0  &bt BT_CLR  &to 0  &to 0  &to 0  &to 0  &to 0  &to 0  &to 0 &to 0 &to 0 &to 0 &to 0 &to 0  &to 0 &to 0 &to 0 &to 0 &to 0  &to 0 &to 0 &to 0 &to 0 &to 0  &to 0 &to 0 &to 0 &to 0 &to 0 &to 0 &to 0 &to 0 &to 0
             >;
         };
 
